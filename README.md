@@ -27,8 +27,3 @@
 )](https://www.instagram.com/iluviyun/)
 
 <br>
-
-### Contribuições >ᴗ<
-<br>
-
-
