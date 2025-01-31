@@ -27,3 +27,14 @@
 )](https://www.instagram.com/iluviyun/)
 
 <br>
+
+### Estatísticas 📊
+
+<br>
+
+<div align="left">
+
+![Yasmin-Leticia's Stats](https://github-readme-stats.vercel.app/api?username=Yasmin-Leticia&theme=buefy&show_icons=true&hide_border=true&count_private=true)
+![Yasmin-Leticia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmin-Leticia&theme=buefy&show_icons=true&hide_border=true&layout=compact)
+
+</div>
