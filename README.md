@@ -1,7 +1,3 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/0adf82bc-965a-4bcc-a110-3ae93c81fe36"/>
-
-<br>
-<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F787AF&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Yasmin+Let%C3%ADcia.;Tenho+18+anos.)](https://git.io/typing-svg)
 
