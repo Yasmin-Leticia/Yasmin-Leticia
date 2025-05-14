@@ -8,8 +8,6 @@
 ──────────── ୨୧ ──────────────── ୨୧ ──────────────── ୨୧ ──────────────── 
 <br>
 
-<small>
-
 ### Estudando ☕
 <br>
 
@@ -34,14 +32,12 @@
 
 ### Estatísticas 📊
 
-</small>
-
 <br>
 
 <div align="left">
 
 ![Yasmin-Leticia's Stats](https://github-readme-stats.vercel.app/api?username=Yasmin-Leticia&theme=buefy&show_icons=true&hide_border=true&count_private=true)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=FF69B4)](https://www.linkedin.com/in/yasmin-leticia-9778b6202/)
+![Yasmin-Leticia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmin-Leticia&theme=buefy&show_icons=true&hide_border=true&layout=compact)
 
 
 </div>
