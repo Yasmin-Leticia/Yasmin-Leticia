@@ -8,33 +8,40 @@
 ──────────── ୨୧ ──────────────── ୨୧ ──────────────── ୨୧ ──────────────── 
 <br>
 
+<small>
+
 ### Estudando ☕
 <br>
 
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-ffffff?style=for-the-badge&logo=html5&logoColor=FF69B4)
+![CSS](https://img.shields.io/badge/CSS-ffffff?style=for-the-badge&logo=css3&logoColor=FF69B4)
+![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=FF69B4)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=FF69B4)
+![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=FF69B4)
+![PHP](https://img.shields.io/badge/PHP-ffffff?style=for-the-badge&logo=php&logoColor=FF69B4)
+
+
 
 <br>
 ──────────── ୨୧ ──────────────── ୨୧ ──────────────── ୨୧ ──────────────── 
 <br>
 
 ### Social 🌸
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&labelColor=0D1117
-)](https://www.instagram.com/iluviyun/)
+[![Instagram](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=FF69B4)](https://www.instagram.com/iluviyun/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=FF69B4)](https://www.linkedin.com/in/yasmin-letícia-9778b6202/)
 
 <br>
 
 ### Estatísticas 📊
+
+</small>
 
 <br>
 
 <div align="left">
 
 ![Yasmin-Leticia's Stats](https://github-readme-stats.vercel.app/api?username=Yasmin-Leticia&theme=buefy&show_icons=true&hide_border=true&count_private=true)
-![Yasmin-Leticia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmin-Leticia&theme=buefy&show_icons=true&hide_border=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=FF69B4)](https://www.linkedin.com/in/yasmin-leticia-9778b6202/)
+
 
 </div>
